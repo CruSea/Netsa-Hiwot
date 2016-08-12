@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
-        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\Yared\\Documents\\workspace\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\Yared\\Documents\\workspace\\Netsa Hiwot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }
 ]

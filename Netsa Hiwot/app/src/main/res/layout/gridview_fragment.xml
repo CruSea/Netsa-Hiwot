@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="10dp"
+    android:columnWidth="230dp"
+    android:gravity="center_horizontal"
+    android:horizontalSpacing="5dp"
+    android:numColumns="1"
+    android:paddingTop="10dp"
+    android:paddingRight="5dp"
+    android:paddingLeft="5dp"
+    android:stretchMode="columnWidth"
+    android:verticalSpacing="1dp"
+    tools:context="com.solodroid.ecommerce.FragmentHome">
+
+</GridView>

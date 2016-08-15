@@ -189,8 +189,8 @@ public class MainActivity extends FragmentActivity {
         Fragment fragment = null;
         switch (position) {
             case 0:
-                fragment = new FragmentHome();
-                //startActivity(new Intent(getApplicationContext(), FragmentHome.class));
+                fragment = new ActivityHome();
+                //startActivity(new Intent(getApplicationContext(), ActivityHome.class));
                 //overridePendingTransition(R.anim.open_next, R.anim.close_next);
                 break;
             case 1:

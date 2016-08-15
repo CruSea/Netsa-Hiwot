@@ -13,13 +13,13 @@ import android.widget.Toast;
  * Created by Sammie on 8/5/2016.
  */
 
-public class gvAdapter extends BaseAdapter {
+public class HomeGridViewAdapter extends BaseAdapter {
 
     private Context cntx;
     private ImageView imgv;
     private TextView txv;
 
-    public gvAdapter(Context c) {
+    public HomeGridViewAdapter(Context c) {
         cntx = c;
     }
 

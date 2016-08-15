@@ -19,7 +19,7 @@ public class ActivityHome extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
-        view = inflater.inflate(R.layout.gridview_fragment_higher_resolu, container, false);
+        view = inflater.inflate(R.layout.gridview_fragment, container, false);
         gv = (GridView) view.findViewById(R.id.gv);
         gv.setAdapter(new HomeGridViewAdapter(getActivity()));
         return view;

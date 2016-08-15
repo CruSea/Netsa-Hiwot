@@ -71,7 +71,7 @@ public class TestimoniesGridViewAdapter extends BaseAdapter {
         if (b == true)
             Toast.makeText(cntx, "Testimonies Image got clicked!!! But same method.", Toast.LENGTH_SHORT).show();
         else
-            Toast.makeText(cntx, "Testimonies got clicked!!! But same method.", Toast.LENGTH_SHORT).show();
+            Toast.makeText(cntx, "Testimonies text got clicked!!! But same method.", Toast.LENGTH_SHORT).show();
     }
 
     private String str[] = {"Image 1", "Image 2", "Image 3", "Image 4",

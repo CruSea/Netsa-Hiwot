@@ -8,7 +8,7 @@
     android:columnWidth="115dp"
     android:gravity="center_horizontal"
     android:horizontalSpacing="5dp"
-    android:numColumns="2"
+    android:numColumns="3"
     android:paddingTop="10dp"
     android:stretchMode="columnWidth"
     android:verticalSpacing="1dp"

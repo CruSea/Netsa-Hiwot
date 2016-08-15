@@ -2,25 +2,49 @@
 <items version="2" >
 
     <item
-        jar="/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_45b6661566eeb9f7d60220771cd10cfe7cc338f6.jar" />
-    </item>
-    <item
-        jar="/Users/Yared/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="24.0.0"
+        is-multidex="true"
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_8535bea045d654ae61a629d007e2c12fecbba3dd.jar" />
+        <dex dex="C:\Users\Nat Crea\Documents\Netsa-Hiwot\Netsa Hiwot\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_cde0fe43c1d155a84c58787d13ed53f1de001e61\classes.dex" />
     </item>
     <item
-        jar="/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
+        is-multidex="true"
+        jar="C:\Users\Nat Crea\Documents\Netsa-Hiwot\Netsa Hiwot\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Nat Crea\Documents\Netsa-Hiwot\Netsa Hiwot\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_5ecf1d1c85428d417536e28947663c298b35c552\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nat Crea\Documents\Netsa-Hiwot\Netsa Hiwot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="477ac1c399dc00b606aa33cb12bfaf83df6d3dfe">
+        <dex dex="C:\Users\Nat Crea\Documents\Netsa-Hiwot\Netsa Hiwot\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6aa3f053004414e466431f6243b9cc65ece7429c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nat Crea\Documents\Netsa-Hiwot\Netsa Hiwot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="041f6c700b6ec152c01bb8dc6307b5cf9a7737a0">
+        <dex dex="C:\Users\Nat Crea\Documents\Netsa-Hiwot\Netsa Hiwot\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a13568476bc10b075123d2ed01fa347c92044864\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nat Crea\Documents\Netsa-Hiwot\Netsa Hiwot\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_e49a6284df69a124b702f0d5c7998ff47a5daf04.jar" />
+        <dex dex="C:\Users\Nat Crea\Documents\Netsa-Hiwot\Netsa Hiwot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_5a01a4aa2c532d287dae7671b99184c57c211f22\classes.dex" />
     </item>
 
 </items>

@@ -1,13 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
     <TextView
-        android:text="Contact Us Works"
+        android:id="@+id/TextView02"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/textView4" />
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/TextView04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:textColor="#FFFF6600"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="16dp" />
+
+    <EditText
+        android:id="@+id/txtViewName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/TextView04"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/from"
+        android:textColor="#FFFF6600"
+        android:layout_below="@+id/txtViewName"
+        android:layout_toRightOf="@+id/TextView02"
+        android:layout_toEndOf="@+id/TextView02"
+        android:layout_marginTop="19dp" />
+
+    <TextView
+        android:id="@+id/TextView03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="60dp"
+        android:text="@string/comment"
+        android:textColor="#FFFF6600"
+        android:layout_below="@+id/txtViewPhone"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="20dp" />
+
+    <EditText
+        android:id="@+id/txtViewFeedback"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:ems="5"
+        android:inputType="textMultiLine"
+        android:maxHeight="60dp"
+        android:background="@android:drawable/editbox_dropdown_light_frame"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/TextView03" />
+
+    <EditText
+        android:id="@+id/txtViewFrom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:layout_below="@+id/textView1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="example@example.com"
+        />
+
+    <EditText
+        android:id="@+id/txtViewPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="phone"
+        android:layout_marginTop="14dp"
+        android:layout_below="@+id/TextView01"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/phone"
+        android:textColor="#FFFF6600"
+        android:layout_below="@+id/txtViewFrom"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="15dp" />
+
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="@string/send"
+        android:background="@drawable/list_item_bg_pressed"
+        android:layout_marginTop="48dp"
+        android:layout_below="@+id/txtViewFeedback"
+        android:layout_toRightOf="@+id/TextView03"
+        android:layout_toEndOf="@+id/TextView03"
+        android:layout_marginLeft="79dp"
+        android:layout_marginStart="79dp" />
+
+
 </RelativeLayout>

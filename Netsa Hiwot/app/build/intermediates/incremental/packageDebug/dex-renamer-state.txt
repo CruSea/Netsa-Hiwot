@@ -1,0 +1,7 @@
+#Fri Aug 12 16:19:48 EAT 2016
+base.0=C\:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a13568476bc10b075123d2ed01fa347c92044864
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6aa3f053004414e466431f6243b9cc65ece7429c\\classes.dex
+base.1=C\:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6aa3f053004414e466431f6243b9cc65ece7429c
+file.0=C\:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a13568476bc10b075123d2ed01fa347c92044864\\classes.dex

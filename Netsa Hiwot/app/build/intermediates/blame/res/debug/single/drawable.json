@@ -48,6 +48,10 @@
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable\\actionbar_shadow.xml"
     },
     {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boarder.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable\\boarder.xml"
+    },
+    {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable\\indicator_corner_bg.xml"
     },

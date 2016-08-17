@@ -1,13 +1,20 @@
 [
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi-v4\\get_help.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-mdpi\\get_help.xml"
-    },
-    {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi-v4\\nav_drawer_list_item.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-mdpi\\nav_drawer_list_item.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi-v4\\get_help.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-mdpi\\get_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi-v4\\home.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-mdpi\\home.xml"
+    },
+    {
+>>>>>>> 9882a21ab5d3cb1734d32a140f1e4a5bb7db6fe1
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi-v4\\contact_us.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-mdpi\\contact_us.xml"
     },

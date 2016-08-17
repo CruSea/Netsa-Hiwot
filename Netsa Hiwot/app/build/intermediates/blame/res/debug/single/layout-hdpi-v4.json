@@ -88,6 +88,13 @@
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\home.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\tempted.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\tempted.xml"
+    },
+    {
+>>>>>>> 9882a21ab5d3cb1734d32a140f1e4a5bb7db6fe1
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\gridview_fragment.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\gridview_fragment.xml"
     },

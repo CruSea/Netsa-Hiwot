@@ -57,9 +57,8 @@ public class HomeGridViewAdapter extends BaseAdapter {
             public void onClick(View view) {
                 starter(true);
                 Intent startArticleActivity = new Intent(cntx, ActivityArticle.class);
-                startArticleActivity.putExtra("Resource", "img" + (position+1));
-                startArticleActivity.putExtra("Txt", "A sample paragraph to test the home layout textview and the above image is "
-                        + str[position] );
+                startArticleActivity.putExtra("Resource", "img" + (position + 1));
+                startArticleActivity.putExtra("Txt", "Amanstext" + (position + 1));
                 cntx.startActivity(startArticleActivity);
             }
         });
@@ -68,9 +67,8 @@ public class HomeGridViewAdapter extends BaseAdapter {
             public void onClick(View view) {
                 starter(false);
                 Intent startArticleActivity = new Intent(cntx, ActivityArticle.class);
-                startArticleActivity.putExtra("Resource", "img" + (position+1));
-                startArticleActivity.putExtra("Txt", "A sample paragraph to test the home layout textview and the above image is "
-                        + str[position] );
+                startArticleActivity.putExtra("Resource", "img" + (position + 1));
+                startArticleActivity.putExtra("Txt", "Amanstext" + (position + 1));
                 cntx.startActivity(startArticleActivity);
             }
         });

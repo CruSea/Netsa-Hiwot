@@ -4,27 +4,27 @@
     api-level="19"
     density="hdpi"
     format="7"
-    timestamp="24628536726360"
+    timestamp="104174100052898"
     token="7825691431617541198" >
 
     <task
         name="javac"
-        duration="210" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="42" />
+        duration="0" />
     <task
         name="verifier"
-        duration="3" />
+        duration="0" />
 
     <artifact
         location="C:\Users\Amanuel\Documents\New folder\Netsa Hiwot\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="24628536726360" >
+    <build timestamp="104174100052898" >
         <artifact
             location="C:\Users\Amanuel\Documents\New folder\Netsa Hiwot\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

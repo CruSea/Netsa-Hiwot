@@ -1,27 +1,87 @@
 [
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\about_us.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\about_us.xml"
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\get_help.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\get_help.xml"
+    },
+    {
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\testimonies.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\testimonies.xml"
+    },
+    {
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\crud_layout.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\crud_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\addiction_test.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\addiction_test.xml"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\contact_us.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\contact_us.xml"
     },
     {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\contact.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\contact.xml"
+    },
+    {
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\nav_drawer_list_item.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\nav_drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\get_help.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\get_help.xml"
+    },
+    {
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\contact.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\tempted.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\tempted.xml"
+    },
+    {
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\gridview_fragment.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\gridview_fragment.xml"
+    },
+    {
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\about_us.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\about_us.xml"
+    },
+    {
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\tempted.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\tempted.xml"
+    },
+    {
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\nav_drawer_main.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\nav_drawer_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\about_us.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\about_us.xml"
+    },
+    {
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\home.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\home.xml"
+    },
+    {
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\splash.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\splash.xml"
+    },
+    {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\idv.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\idv.xml"
     },
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\contact.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\contact.xml"
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\contact_us.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\contact_us.xml"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\nav_drawer_list_item.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\nav_drawer_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\get_help.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\get_help.xml"
+        "merged": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\idv.xml",
+        "source": "D:\\Documents\\StudioProjects\\Netsa Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\idv.xml"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\addiction_test.xml",
@@ -34,10 +94,6 @@
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\gridview_fragment.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\gridview_fragment.xml"
-    },
-    {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\tempted.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\tempted.xml"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\nav_drawer_main.xml",

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_testimonies</item>
+        <item>@drawable/ic_addiction_test</item>
+        <item>@drawable/ic_tempted</item>
+        <item>@drawable/ic_get_help</item>
+        <item>@drawable/ic_contact_us</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_share</item>
+
+    </array>
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Testimonies</item>
+        <item>Addiction Test</item>
+        <item>Tempted</item>
+        <item>Get Help</item>
+        <item>Contact Us</item>
+        <item>About Us</item>
+        <item>Share</item>
+
+    </string-array>
+    <color name="app_bg">#EEEEEE</color>
+    <color name="apptheme_accent">@android:color/white</color>
+    <color name="apptheme_primary">#009688</color>
+    <color name="apptheme_primary_dark">#00796b</color>
+    <color name="background">#2c1f1a</color>
+    <color name="background_actionbar">#bb340e</color>
+    <color name="btn_bg">#40A8D6</color>
+    <color name="btn_text">#FFFFFF</color>
+    <color name="caption">#372721</color>
+    <color name="copyright">#503b32</color>
+    <color name="detail_background">#372721</color>
+    <color name="divider">#257CC1</color>
+    <color name="form_bg">#FFFFFF</color>
+    <color name="form_border">#40A8D6</color>
+    <color name="gradient_light_start">#30000000</color>
+    <color name="gradient_start">#50000000</color>
+    <color name="header">#ff6600</color>
+    <color name="hint">#767676</color>
+    <color name="image_background">#999999</color>
+    <color name="list_background">#ffffff</color>
+    <color name="list_background_pressed">#FF9800</color>
+    <color name="list_divider">#C3C3C3</color>
+    <color name="list_item_title">#fff</color>
+    <color name="setting_devider">#503b32</color>
+    <color name="shadow">#505050</color>
+    <color name="subtext">#bdbdbd</color>
+    <color name="text">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <dimen name="action_bar_height">56dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="Amanstext">      One is staggered at the unwillingness of Christians to pray. Perhaps it is because they have never
+experienced, or even heard of, convincing answers to prayer.
+In this chapter we are setting out to do the “impossible.” What is that? We long to bring home to
+the heart and conscience of every reader the power of prayer. We venture to describe this as
+“impossible.” For if men will not believe, and act upon, our Lord’s promises and commands, how
+can we expect them to be persuaded by any mere human exhortations?
+But do you remember that our Lord, when speaking to His disciples, asked them to believe that He
+was in the Father and the Father in Him? Then he added: “If you cannot believe My bare word
+about this, believe Me for the very works’ sake” (John xiv. 11). It was as if He said, “If My Person,
+My sanctified life, and My wonderful words do not elicit belief in Me, then look at My works:
+surely they are sufficient to compel belief? Believe Me because of what I do.”
+Then He went on to promise that if they would believe, they should do greater works than these.
+It was after this utterance that He gave the first of those six wonderful promises in regard to prayer.
+The inference surely is that those “greater works” are to be done only as the outcome of prayer.
+May the disciple therefore follow the Master’s method? Fellow-worker, if you fail to grasp, fail to
+trust our Lord’s astounding promises regarding prayer, will you not believe them “for the very works’ sake”? That is, because of those “greater works” which men and women are performing
+today — or, rather, the works which the Lord Jesus is doing, through their prayerful co-operation?
+What are we “out for”? What is our real aim in life? Surely we desire most of all to be abundantly
+fruitful in the Master’s service. We seek not position, or prominence, or power. But we do long to
+be fruitful servants. Then we must be much in prayer. God can do more through our prayers than
+through our preaching. A. J. Gordon once said, “You can do more than pray, after you have prayed,
+but you can never do more than pray until you have prayed.” If only we would believe this!
+A lady in India was cast down through the failure of her life and work. She was a devoted missionary,
+but somehow or other conversions never resulted from her ministry.
+The Holy Spirit seemed to say to her, “Pray more.” But she resisted the promptings of the Spirit
+for some time. “At length,” said she, “I set apart much of my time for prayer. I did it in fear and
+trembling lest my fellow-workers should complain that I was shirking my work. After a few weeks
+I began to see men and women accepting Christ as their Savior. Moreover, the whole district was
+soon awakened, and the work of all the other missionaries was blessed as never before. God did
+more in six months than I had succeeded in doing in six years. And,” she added, “no one ever
+accused me of shirking my duty.” Another lady missionary in India felt the same call to pray. She
+began to give much time to prayer. No opposition came from without, but it did come from within.
+But she persisted, and in two years the baptized converts increased sixfold!
+God promised that He would “pour out the Spirit of grace and supplication upon all flesh” (Joel ii.
+28). How much of that Spirit of “supplication” is o Surely we must get that Spirit at all costs?
+Yet if we are not willing to spend time in “supplication,” God must perforce withhold His Spirit,</string>
+    <string name="amanstext">Amanstext</string>
+    <string name="app_name">Netsa Hiwot App</string>
+    <string name="app_version">Version 1.2.0</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_addiction_test">Addiction Test</string>
+    <string name="menu_contact">Contact</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="menu_get_help">Get Help</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_tempted">Tempted</string>
+    <string name="menu_testimonies">Testimonies</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="AppTheme2" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/AppTheme_ActionBar</item>
+        <item name="android:actionBarSize">@dimen/action_bar_height</item>
+        <item name="android:windowContentOverlay">@drawable/actionbar_shadow</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_ab_up_compat</item>
+        <item name="android:actionOverflowButtonStyle">@style/AppTheme_ActionBar_Overflow</item>
+    </style>
+    <style name="AppTheme_ActionBar" parent="android:Widget.Holo.ActionBar.Solid">
+        <item name="android:background">@color/header</item>
+        <item name="android:icon">@drawable/actionbar_icon_placeholder_compat</item>
+        <item name="android:titleTextStyle">@style/AppTheme_ActionBar_Title</item>
+    </style>
+    <style name="AppTheme_ActionBar_Overflow" parent="android:Widget.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_ab_overflow_compat</item>
+    </style>
+    <style name="AppTheme_ActionBar_Title" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

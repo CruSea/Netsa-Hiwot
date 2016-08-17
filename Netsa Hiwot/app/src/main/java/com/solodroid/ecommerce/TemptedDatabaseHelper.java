@@ -119,5 +119,7 @@ public class TemptedDatabaseHelper extends SQLiteOpenHelper {
         }
         Log.d("Hi Sammie!!! ---", "Finished TemptedDatabaseHelper <ArrayList> getAllVerses()...");
         return allVersesAL;
+
     }
+
 }

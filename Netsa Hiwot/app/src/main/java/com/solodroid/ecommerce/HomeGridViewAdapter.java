@@ -1,6 +1,7 @@
 package com.solodroid.ecommerce;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -39,7 +40,7 @@ public class HomeGridViewAdapter extends BaseAdapter {
     }
 
     @Override
-    public View getView(int position, View convertView, ViewGroup viewGroup) {
+    public View getView(final int position, View convertView, ViewGroup viewGroup) {
         View view = convertView;
         LayoutInflater linf = (LayoutInflater) cntx.getSystemService
                 (Context.LAYOUT_INFLATER_SERVICE);
@@ -55,12 +56,22 @@ public class HomeGridViewAdapter extends BaseAdapter {
             @Override
             public void onClick(View view) {
                 starter(true);
+                Intent startArticleActivity = new Intent(cntx, ActivityArticle.class);
+                startArticleActivity.putExtra("Resource", "img" + (position+1));
+                startArticleActivity.putExtra("Txt", "A sample paragraph to test the home layout textview and the above image is "
+                        + str[position] );
+                cntx.startActivity(startArticleActivity);
             }
         });
         txv.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 starter(false);
+                Intent startArticleActivity = new Intent(cntx, ActivityArticle.class);
+                startArticleActivity.putExtra("Resource", "img" + (position+1));
+                startArticleActivity.putExtra("Txt", "A sample paragraph to test the home layout textview and the above image is "
+                        + str[position] );
+                cntx.startActivity(startArticleActivity);
             }
         });
 
@@ -70,6 +81,7 @@ public class HomeGridViewAdapter extends BaseAdapter {
     void starter(Boolean b) {
         if (b == true)
             Toast.makeText(cntx, "Image got clicked!!! But same method.", Toast.LENGTH_SHORT).show();
+
         else
             Toast.makeText(cntx, "Text got clicked!!! But same method.", Toast.LENGTH_SHORT).show();
     }

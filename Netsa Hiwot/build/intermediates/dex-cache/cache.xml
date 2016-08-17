@@ -1,3 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Amanuel\Documents\New folder\Netsa Hiwot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ff535b09af92d6c102807da2bd9793eba317851a">
+        <dex dex="C:\Users\Amanuel\Documents\New folder\Netsa Hiwot\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5d4fe26b47d4bfb3e8cea9f348093377a6a6b2e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Amanuel\Documents\New folder\Netsa Hiwot\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Amanuel\Documents\New folder\Netsa Hiwot\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_b891c9b260173c1ba52e775d300d5be293241957.jar" />
+    </item>
+    <item
+        jar="C:\Users\Amanuel\Documents\New folder\Netsa Hiwot\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Amanuel\Documents\New folder\Netsa Hiwot\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_dfdf4a8a6b4189d939e566579b1ce9f14a32d9f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Amanuel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Amanuel\Documents\New folder\Netsa Hiwot\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_d2e4c176c2e0950490ec09fd0f11fb0f6bee7882.jar" />
+    </item>
+    <item
+        jar="C:\Users\Amanuel\Documents\New folder\Netsa Hiwot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="71094020c4da745076034e01f95313ffe24e5a5f">
+        <dex dex="C:\Users\Amanuel\Documents\New folder\Netsa Hiwot\app\build\intermediates\pre-dexed\debug\instant-run_6627d0cbed75a971f876f1d5b015c1ac3227838d.jar" />
+    </item>
+
+</items>

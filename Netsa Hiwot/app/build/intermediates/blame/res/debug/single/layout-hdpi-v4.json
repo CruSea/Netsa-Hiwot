@@ -32,12 +32,12 @@
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\home.xml"
     },
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\gridview_fragment.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\gridview_fragment.xml"
-    },
-    {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\tempted.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\tempted.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\gridview_fragment.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout-hdpi\\gridview_fragment.xml"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\nav_drawer_main.xml",

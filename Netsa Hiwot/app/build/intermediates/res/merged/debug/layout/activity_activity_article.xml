@@ -36,7 +36,7 @@
                 android:layout_marginBottom="0dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/Amanstext"
+                android:text="@string/Amanstext1"
                 android:textColor="@android:color/black"
                 />
 

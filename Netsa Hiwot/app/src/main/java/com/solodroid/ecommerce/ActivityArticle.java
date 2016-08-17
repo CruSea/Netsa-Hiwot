@@ -20,10 +20,11 @@ public class ActivityArticle extends Activity {
         bundle = getIntent().getExtras();
         text = (TextView) findViewById(R.id.AmansText);
         iv = (ImageView) findViewById(R.id.AmansImage);
+        txt = bundle.getString("Txt");
         img_loc = bundle.getString("Resource");
-        //txt = bundle.getString("Txt");
-        //.setText(txt);
-        int id = getResources().getIdentifier(img_loc, "drawable", getPackageName());
-        iv.setImageResource(id);
+        int id = getResources().getIdentifier(txt, "string", getPackageName());
+        text.setText(id);
+        int id2 = getResources().getIdentifier(img_loc, "drawable", getPackageName());
+        iv.setImageResource(id2);
     }
 }

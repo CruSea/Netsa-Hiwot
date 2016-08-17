@@ -1,19 +1,27 @@
 [
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_drawer_main.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\nav_drawer_main.xml"
-    },
-    {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testimonies.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\testimonies.xml"
     },
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addiction_test.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\addiction_test.xml"
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idv.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\idv.xml"
     },
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\contact_us.xml"
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_drawer_list_item.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\nav_drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_fragment.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\gridview_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\about_us.xml"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
@@ -24,12 +32,16 @@
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\nav_drawer_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\splash.xml"
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_drawer_main.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\nav_drawer_main.xml"
     },
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tempted.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\tempted.xml"
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testimonies.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\testimonies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\splash.xml"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
@@ -40,10 +52,6 @@
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\idv.xml"
     },
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\contact.xml"
-    },
-    {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity_article.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\activity_activity_article.xml"
     },
@@ -52,7 +60,55 @@
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\gridview_fragment.xml"
     },
     {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\get_help.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\get_help.xml"
+    },
+    {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\get_help.xml",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\get_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_drawer_main.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\nav_drawer_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addiction_test.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\addiction_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tempted.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\tempted.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addiction_test.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\addiction_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tempted.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\tempted.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity_article.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\activity_activity_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\layout\\home.xml"
     }
 ]

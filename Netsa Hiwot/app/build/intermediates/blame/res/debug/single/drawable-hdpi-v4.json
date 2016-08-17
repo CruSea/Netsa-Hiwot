@@ -1,19 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_testimonies.png",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_testimonies.png"
-    },
-    {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact.png",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_contact.png"
-    },
-    {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_overflow_compat.png",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_ab_overflow_compat.png"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_back2.png",
@@ -28,6 +20,10 @@
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_get_help.png"
     },
     {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_contact.png"
+    },
+    {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_exit.png",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_exit.png"
     },
@@ -40,20 +36,32 @@
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\img10.jpg"
     },
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home.png",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
-    },
-    {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share.png",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home.png",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pray.jpg",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\pray.jpg"
     },
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_buy_pressed.png",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_buy_pressed.png"
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_back2.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\nav_back2.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_exit.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_share.png"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact_us.png",
@@ -64,8 +72,76 @@
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\transparant.png"
     },
     {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\transparant.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\transparant.png"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_up_compat.png",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_ab_up_compat.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tempted.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_tempted.png"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_testimonies.png",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_testimonies.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.jpg",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_overflow_compat.png",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_ab_overflow_compat.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_buy_pressed.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_buy_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_up_compat.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_ab_up_compat.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pray.jpg",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\pray.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img10.jpg",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\img10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_get_help.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_get_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_buy_pressed.png",
+        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_buy_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_overflow_compat.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_ab_overflow_compat.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact_us.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_contact_us.png"
+    },
+    {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.jpg",
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_testimonies.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_testimonies.png"
     },
     {
         "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_addiction_test.png",
@@ -76,7 +152,11 @@
         "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
     },
     {
-        "merged": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_up_compat.png",
-        "source": "C:\\Users\\Amanuel\\Documents\\New folder\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_ab_up_compat.png"
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_addiction_test.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_addiction_test.png"
+    },
+    {
+        "merged": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_about.png",
+        "source": "C:\\Users\\Nat Crea\\Documents\\Netsa-Hiwot\\Netsa Hiwot\\app\\src\\main\\res\\drawable-hdpi\\ic_about.png"
     }
 ]

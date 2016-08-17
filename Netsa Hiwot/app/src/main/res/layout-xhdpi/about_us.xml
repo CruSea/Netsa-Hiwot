@@ -5,13 +5,44 @@
     android:gravity="center"
     android:orientation="vertical"
     android:padding="5dp" >
-
-
     <TextView
-        android:text="About Us Works"
+        android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/TextView01"
+        android:layout_alignParentBottom="true"
+        android:text=" ©2009  version 1.0"
+        android:textColor="#ffff6600" />
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:id="@+id/textView3" />
+        android:layout_marginTop="86dp"
+        android:text="ነፃ ህይወት "
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ffff6600" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TextView01"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:fontFamily="Questrial"
+        android:text="ነፃ ህይወት ሞባይል አፕሊኬሽን የተዘጋጀው በግሬት ኮሚሽን ሲሆን አፕሊኬሽኑ በፖርኖግራፊ እና በፖርኖግራፊ መዘዞች ዙሪያ መረጃን በመስጠት ከማህበራዊ ህይወት፣ ከግል ህይወት እይታዎች አንፃር የሚያስከትለው ጉዳት በቂ መረጃዎችን ይሰጣል፡፡ በተጨማሪ በፖርኖግራፊ ልምምድ ውስጥ ለሚገኙ እና ከልምምዱ መላቀቅ ለሚፈልጉ ሰዎች online ምዝገባ በማድረግ ከልምምዱ ነፃ የሆነ ህይወት እንዲኖራቸው ይረዳል፡"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffff6600" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="47dp"
+        android:background="@drawable/facebook" />
 </RelativeLayout>
